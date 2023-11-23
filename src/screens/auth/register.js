@@ -75,6 +75,10 @@ export default function Register() {
                     fontSize={16}
                   />
                 </FormControl>
+                <FormControl w="100%">
+                  <FormControl.Label>Contact number</FormControl.Label>
+                  <Input height={10} keyboardType="phone-pad" fontSize={16} />
+                </FormControl>
                 <FormControl>
                   <FormControl.Label>Password</FormControl.Label>
                   <Input height={10} type="password" fontSize={16} />
