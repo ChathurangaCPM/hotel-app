@@ -3,13 +3,15 @@ import {NavigationContainer} from '@react-navigation/native';
 
 import {Host} from 'react-native-portalize';
 import MainStackNavigator from './main-navigator';
+import HotelStackNavigator from './hotel-stack-navigator';
 
 const MainNavigationContainer = () => {
+  const isSignedIn = true;
   const [isLogin, setIsLogin] = useState(true);
   return (
     <NavigationContainer>
       <Host>
-        <MainStackNavigator />
+        {isSignedIn ? <HotelStackNavigator /> : <MainStackNavigator />}
       </Host>
     </NavigationContainer>
   );

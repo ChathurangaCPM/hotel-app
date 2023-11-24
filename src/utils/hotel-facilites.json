@@ -1,0 +1,262 @@
+{
+    "Accommodation": [
+        {
+            "name": "Single rooms",
+            "icon": ""
+        },
+        {
+            "name": "Double rooms",
+            "icon": ""
+        },
+        {
+            "name": "Suites",
+            "icon": ""
+        },
+        {
+            "name": "Apartments",
+            "icon": ""
+        }
+    ],
+    "Dining": [
+        {
+            "name": "Restaurant",
+            "icon": ""
+        },
+        {
+            "name": "Breakfast service",
+            "icon": ""
+        },
+        {
+            "name": "Room service",
+            "icon": ""
+        },
+        {
+            "name": "Bar or lounge",
+            "icon": ""
+        }
+    ],
+    "Meeting and Event Spaces": [
+        {
+            "name": "Conference room",
+            "icon": ""
+        },
+        {
+            "name": "Banquet hall",
+            "icon": ""
+        },
+        {
+            "name": "Meeting rooms",
+            "icon": ""
+        }
+    ],
+    "Recreational Facilities": [
+        {
+            "name": "Swimming pool",
+            "icon": ""
+        },
+        {
+            "name": "Fitness center",
+            "icon": ""
+        },
+        {
+            "name": "Spa and wellness center",
+            "icon": ""
+        },
+        {
+            "name": "Sports facilities",
+            "icon": ""
+        }
+    ],
+    "Entertainment": [
+        {
+            "name": "Nightclub or lounge with live music",
+            "icon": ""
+        },
+        {
+            "name": "Entertainment shows or performances",
+            "icon": ""
+        }
+    ],
+    "Business Services": [
+        {
+            "name": "Business center",
+            "icon": ""
+        },
+        {
+            "name": "High-speed internet access",
+            "icon": ""
+        },
+        {
+            "name": "Audiovisual equipment",
+            "icon": ""
+        }
+    ],
+    "Transportation Services": [
+        {
+            "name": "Airport shuttle",
+            "icon": ""
+        },
+        {
+            "name": "Car rental services",
+            "icon": ""
+        },
+        {
+            "name": "Parking facilities",
+            "icon": ""
+        }
+    ],
+    "Family and Children-Friendly Services": [
+        {
+            "name": "Family rooms",
+            "icon": ""
+        },
+        {
+            "name": "Play areas",
+            "icon": ""
+        },
+        {
+            "name": "Babysitting services",
+            "icon": ""
+        }
+    ],
+    "Accessibility Services": [
+        {
+            "name": "Rooms for guests with disabilities",
+            "icon": ""
+        },
+        {
+            "name": "Elevators",
+            "icon": ""
+        },
+        {
+            "name": "Wheelchair access",
+            "icon": ""
+        }
+    ],
+    "Technology and Connectivity": [
+        {
+            "name": "Wi-Fi in rooms and common areas",
+            "icon": ""
+        },
+        {
+            "name": "Smart room features",
+            "icon": ""
+        }
+    ],
+    "Security": [
+        {
+            "name": "24-hour security",
+            "icon": ""
+        },
+        {
+            "name": "Surveillance cameras",
+            "icon": ""
+        },
+        {
+            "name": "Secure parking",
+            "icon": ""
+        }
+    ],
+    "Housekeeping Services": [
+        {
+            "name": "Daily housekeeping",
+            "icon": ""
+        },
+        {
+            "name": "Laundry services",
+            "icon": ""
+        },
+        {
+            "name": "Dry cleaning services",
+            "icon": ""
+        }
+    ],
+    "Concierge Services": [
+        {
+            "name": "Concierge desk",
+            "icon": ""
+        },
+        {
+            "name": "Tour and ticket assistance",
+            "icon": ""
+        },
+        {
+            "name": "Local area information",
+            "icon": ""
+        }
+    ],
+    "Loyalty Programs": [
+        {
+            "name": "Rewards programs",
+            "icon": ""
+        },
+        {
+            "name": "Membership benefits",
+            "icon": ""
+        }
+    ],
+    "Pets-Friendly Services": [
+        {
+            "name": "Pet-friendly rooms",
+            "icon": ""
+        },
+        {
+            "name": "Pet sitting or walking services",
+            "icon": ""
+        }
+    ],
+    "Environmental Initiatives": [
+        {
+            "name": "Eco-friendly practices",
+            "icon": ""
+        },
+        {
+            "name": "Green certifications",
+            "icon": ""
+        }
+    ],
+    "Wellness Facilities": [
+        {
+            "name": "Yoga or meditation classes",
+            "icon": ""
+        },
+        {
+            "name": "Wellness programs",
+            "icon": ""
+        },
+        {
+            "name": "Health clinics or services",
+            "icon": ""
+        }
+    ],
+    "Gift Shops and Boutiques": [
+        {
+            "name": "On-site shops",
+            "icon": ""
+        },
+        {
+            "name": "Souvenir shops",
+            "icon": ""
+        }
+    ],
+    "Common Areas": [
+        {
+            "name": "Lobby and lounge areas",
+            "icon": ""
+        },
+        {
+            "name": "Outdoor seating areas",
+            "icon": ""
+        }
+    ],
+    "Emergency Services": [
+        {
+            "name": "First aid services",
+            "icon": ""
+        },
+        {
+            "name": "Emergency response plans",
+            "icon": ""
+        }
+    ]
+}

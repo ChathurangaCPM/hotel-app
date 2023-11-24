@@ -18,10 +18,12 @@ import {
   ScrollView,
   SafeAreaView,
 } from 'react-native';
+import { useNavigation } from '@react-navigation/native';
 
 const {width} = Dimensions.get('screen');
 
 export default function Register() {
+  const navigation = useNavigation();
   return (
     <SafeAreaView style={{flex: 1}}>
       <KeyboardAvoidingView
@@ -88,9 +90,10 @@ export default function Register() {
                   <Input height={10} type="password" fontSize={16} />
                 </FormControl>
                 <Button
+                  onPress={() => navigation.push('AddNewHotel')}
                   mt="2"
                   colorScheme="indigo"
-                  isLoading
+                  // isLoading
                   isLoadingText="Creating...">
                   Create a Primary Account
                 </Button>

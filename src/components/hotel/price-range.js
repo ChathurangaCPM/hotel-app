@@ -1,8 +1,9 @@
-import React from 'react';
+import React, {useState} from 'react';
 
 import {Box, Flex, Text, Slider} from 'native-base';
 
 export default function PriceRange() {
+  const [price, setPrice] = useState(30);
   return (
     <Box>
       <Flex direction="row" w="100%" justifyContent="space-between">
@@ -10,10 +11,16 @@ export default function PriceRange() {
           Price range
         </Text>
         <Text fontWeight="medium" color="muted.700">
-          5300+
+          {price * 100}+
         </Text>
       </Flex>
-      <Slider defaultValue={80} size="lg">
+      <Slider
+        defaultValue={30}
+        size="lg"
+        minValue={30}
+        onChange={v => {
+          setPrice(Math.floor(v));
+        }}>
         <Slider.Track>
           <Slider.FilledTrack />
         </Slider.Track>

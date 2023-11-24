@@ -1,0 +1,168 @@
+{
+    "Luxury Hotels": {
+        "description": "Provide high-end amenities and services. Often have fine dining restaurants, spa facilities, and premium accommodations.",
+        "examples": [
+            "Ritz-Carlton",
+            "Four Seasons",
+            "Waldorf Astoria"
+        ]
+    },
+    "Boutique Hotels": {
+        "description": "Small, stylish, and often themed hotels. Emphasize personalized service and unique design.",
+        "examples": [
+            "Ace Hotel",
+            "Kimpton Hotels",
+            "The Hoxton"
+        ]
+    },
+    "Resorts": {
+        "description": "Located in scenic or vacation destinations. Offer a range of recreational facilities and activities.",
+        "examples": [
+            "Atlantis Resort",
+            "Sandals Resorts",
+            "Banyan Tree Resorts"
+        ]
+    },
+    "Business Hotels": {
+        "description": "Cater to business travelers. Typically located in business districts and offer conference facilities.",
+        "examples": [
+            "Marriott Hotels",
+            "Hilton Hotels",
+            "Hyatt Regency"
+        ]
+    },
+    "Budget or Economy Hotels": {
+        "description": "Offer basic accommodations at affordable prices. May lack extensive amenities.",
+        "examples": [
+            "Motel 6",
+            "Holiday Inn Express",
+            "Super 8"
+        ]
+    },
+    "Extended Stay Hotels": {
+        "description": "Suited for long-term stays. Equipped with kitchenettes or full kitchens.",
+        "examples": [
+            "Residence Inn",
+            "Homewood Suites",
+            "Staybridge Suites"
+        ]
+    },
+    "Airport Hotels": {
+        "description": "Located near airports for convenience. Cater to travelers with short layovers or early/late flights.",
+        "examples": [
+            "Sheraton Skyline Hotel",
+            "Radisson Blu Hotel",
+            "Hilton Munich Airport"
+        ]
+    },
+    "Suite Hotels": {
+        "description": "Provide larger rooms or suites with separate living and sleeping areas.",
+        "examples": [
+            "Embassy Suites by Hilton",
+            "Homewood Suites by Hilton",
+            "Grand Hyatt Residence"
+        ]
+    },
+    "Bed and Breakfast (B&B)": {
+        "description": "Offer overnight accommodations and breakfast. Often in smaller, more intimate settings.",
+        "examples": [
+            "The Inn at English Harbour",
+            "Château Mcely",
+            "3B Boutique Bed & Breakfast"
+        ]
+    },
+    "Hostels": {
+        "description": "Budget-friendly accommodations with shared facilities. Popular among backpackers and budget travelers.",
+        "examples": [
+            "Hostelworld",
+            "HI Hostels",
+            "Generator Hostels"
+        ]
+    },
+    "Motel": {
+        "description": "Typically located along highways or in suburban areas. Emphasize convenient parking for travelers with vehicles.",
+        "examples": [
+            "Travelodge",
+            "Days Inn",
+            "Best Western"
+        ]
+    },
+    "Cabin or Lodge": {
+        "description": "Located in rural or wilderness settings. Provide a rustic and nature-oriented experience.",
+        "examples": [
+            "Fairmont Jasper Park Lodge",
+            "Denali Backcountry Lodge",
+            "The Lodge at Glendorn"
+        ]
+    },
+    "Casino Hotels": {
+        "description": "Integrated with a casino. Offer a range of entertainment options.",
+        "examples": [
+            "The Venetian Las Vegas",
+            "Bellagio",
+            "Caesars Palace"
+        ]
+    },
+    "Historic Hotels": {
+        "description": "Located in historic buildings or landmarks. Emphasize historical significance and charm.",
+        "examples": [
+            "The Plaza Hotel",
+            "Hotel Danieli",
+            "The Fairmont Banff Springs"
+        ]
+    },
+    "All-Inclusive Resorts": {
+        "description": "Include accommodation, meals, drinks, and some activities in a bundled package.",
+        "examples": [
+            "Sandals Resorts",
+            "Club Med",
+            "Excellence Resorts"
+        ]
+    },
+    "Spa Resorts": {
+        "description": "Focus on health and wellness. Offer spa treatments and wellness programs.",
+        "examples": [
+            "Canyon Ranch",
+            "Ananda in the Himalayas",
+            "Miraval Arizona Resort & Spa"
+        ]
+    },
+    "Conference Centers": {
+        "description": "Specialized in hosting conferences and events. Equipped with meeting rooms and facilities.",
+        "examples": [
+            "Gaylord Hotels",
+            "The Convention Centre Dublin",
+            "World Forum The Hague"
+        ]
+    },
+    "Floating Hotels": {
+        "description": "Located on water bodies such as rivers or oceans. Offer a unique experience.",
+        "examples": [
+            "The Queen Mary",
+            "Sunborn London Yacht Hotel",
+            "Offshore Bed & Breakfast"
+        ]
+    },
+    "Pet-Friendly Hotels": {
+        "description": "Accommodate guests with pets. Provide pet-friendly amenities and services.",
+        "examples": [
+            "Kimpton Hotels",
+            "Loews Hotels",
+            "Best Western Pet-friendly Hotels"
+        ]
+    },
+    "Green or Eco-Friendly Hotels": {
+        "description": "Prioritize sustainability and eco-friendly practices.",
+        "examples": [
+            "Bardessono Hotel and Spa",
+            "Six Senses Hotels Resorts Spas",
+            "The Scarlet Hotel"
+        ]
+    },
+    "Other": {
+        "description": "",
+        "examples": [
+            "Other"
+        ]
+    }
+}
