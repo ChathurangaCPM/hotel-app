@@ -6,7 +6,7 @@ import MainStackNavigator from './main-navigator';
 import HotelStackNavigator from './hotel-stack-navigator';
 
 const MainNavigationContainer = () => {
-  const isSignedIn = false;
+  const isSignedIn = true;
   const [isLogin, setIsLogin] = useState(true);
   return (
     <NavigationContainer>
